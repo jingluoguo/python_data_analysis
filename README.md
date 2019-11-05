@@ -1,8 +1,7 @@
 # python_data_analysis
 一些python对数据处理的小脚本，外加不错的一些小工具
 
-- 修改单独文件上传命令
-1. 
+- 修改单独文件上传命令 
 git pull 仓库名 master
 git rm -r --cached 文件夹
 git commit -m ""
